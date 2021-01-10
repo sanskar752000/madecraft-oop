@@ -9,7 +9,7 @@ public class Smurf {
 		return new Smurf(name);
 	}
 
-	private Smurf(String name) {
+	public Smurf(String name) {
 		this.name = name;
 	}
 
